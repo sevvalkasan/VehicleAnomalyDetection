@@ -36,3 +36,17 @@ TensorFlow
 scikit-learn
 Matplotlib
 Pandas
+
+## License
+
+This project is licensed under the Apache License 2.0. You may obtain a copy of the License at:
+
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+### Key Points of the License:
+- You are free to use, modify, and distribute the project, even for commercial purposes.
+- You must include a copy of the license and any significant changes made to the project.
+- There is no warranty for the software.
+
+For more details, see the [LICENSE](LICENSE) file in this repository.
+
